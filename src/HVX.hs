@@ -11,7 +11,9 @@ module HVX
   , hadd
   , (+~)
   , hmul
+  , hmulpos
   , (*~)
+  , (*~+)
   , habs
   , neg
   , hlog
